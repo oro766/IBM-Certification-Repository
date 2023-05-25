@@ -1,4 +1,4 @@
-# testrepo-IBM-Certification-Repository
+# testrepo-Course-2-IBM_Data-Science_Cert
 
 ## Editing the file
 
