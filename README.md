@@ -1,2 +1,5 @@
-# IBM-Certification-Repository
-Contains exercises and assignments of the IBM Data Science Professional Certificate Course
+# testrepo-IBM-Certification-Repository
+
+## Editing the file
+
+Its a markdown file in this repository.
